@@ -55,8 +55,8 @@ export const cardsData = [
   {
     title: "On-time Performance",
     color: {
-      backGround: "linear-gradient(180deg, #2E86AB 0%, #4FB0C6 100%)",
-      boxShadow: "0px 10px 20px 0px #b3ddeb",
+      backGround: "linear-gradient(180deg, #323643 0%, #606470 100%)",
+      boxShadow: "0px 10px 20px 0px rgba(82, 90, 117, 0.50)",
     },
     barValue: 92,
     value: "92%",
@@ -71,8 +71,8 @@ export const cardsData = [
   {
     title: "Active Trains",
     color: {
-      backGround: "linear-gradient(180deg, #FF919D 0%, #FC929D 100%)",
-      boxShadow: "0px 10px 20px 0px #FDC0C7",
+      backGround: "linear-gradient(180deg,rgb(64, 81, 152) 0%,rgb(62, 53, 54) 100%)",
+      boxShadow: "0px 10px 20px 0px rgb(47, 47, 79, 0.50)",
     },
     barValue: 76,
     value: "143",
@@ -88,8 +88,8 @@ export const cardsData = [
     title: "Track Occupancy",
     color: {
       backGround:
-        "linear-gradient(rgb(248, 212, 154) -146.42%, rgb(255 202 113) -46.42%)",
-      boxShadow: "0px 10px 20px 0px #F9D59B",
+        "linear-gradient(180deg,rgb(115, 137, 208) 0%,rgb(72, 81, 108) 100%)",
+      boxShadow: "0px 10px 20px 0px rgba(96, 100, 112, 0.50)",
     },
     barValue: 68,
     value: "68%",
