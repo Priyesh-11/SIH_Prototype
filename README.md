@@ -1,1 +1,2 @@
-SIH prototype
+Admin Dashboard 
+React+tailwind CSS project
